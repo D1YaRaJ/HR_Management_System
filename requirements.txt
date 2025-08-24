@@ -1,0 +1,4 @@
+backend:
+npm i express cors pdfkit mysql2 axios
+frontend:
+npm i react-icons react-router-dom axios
